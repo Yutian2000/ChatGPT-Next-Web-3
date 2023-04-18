@@ -220,13 +220,14 @@ function _Home() {
               shadow
             />
           </div>
+          333
         </div>
 
         <div
           className={styles["sidebar-drag"]}
           onMouseDown={(e) => onDragMouseDown(e as any)}
         ></div>
-        2222
+        
       </div>
 
       <div className={styles["window-content"]}>
