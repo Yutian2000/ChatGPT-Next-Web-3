@@ -226,6 +226,7 @@ function _Home() {
           className={styles["sidebar-drag"]}
           onMouseDown={(e) => onDragMouseDown(e as any)}
         ></div>
+        2222
       </div>
 
       <div className={styles["window-content"]}>
@@ -245,7 +246,7 @@ function _Home() {
           
         )}
       </div>
-      11111
+      
     </div>
   );
 }
