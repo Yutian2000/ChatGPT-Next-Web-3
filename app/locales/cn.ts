@@ -90,9 +90,7 @@ const cn = {
       CheckUpdate: "检查更新",
       IsChecking: "正在检查更新...",
       FoundUpdate: (x: string) => `发现新版本：${x}`,
-      CheckUpdate: "",
-   
-      
+      GoToUpdate: "",
     },
     SendKey: "发送键",
     Theme: "主题",
@@ -123,7 +121,7 @@ const cn = {
     },
     Token: {
       Title: "API Key",
-      SubTitle: "可使用自己的 Key ",
+      SubTitle: "使用自己的 Key 可绕过密码访问限制",
       Placeholder: "OpenAI API Key",
     },
     Usage: {
