@@ -89,7 +89,7 @@ const cn = {
       IsLatest: "已是最新版本",
       CheckUpdate: "检查更新",
       IsChecking: "正在检查更新...",
-      FoundUpdate: (x: string) => `${x}`,
+      
       GoToUpdate: "",
     },
     SendKey: "发送键",
@@ -119,11 +119,7 @@ const cn = {
       Title: "历史消息长度压缩阈值",
       SubTitle: "当未压缩的历史消息超过该值时，将进行压缩",
     },
-    Token: {
-      Title: "",
-      SubTitle: "",
-      Placeholder: "",
-    },
+
     Usage: {
       Title: "余额查询",
       SubTitle(used: any, total: any) {
