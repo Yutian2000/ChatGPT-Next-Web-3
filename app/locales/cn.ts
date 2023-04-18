@@ -90,7 +90,7 @@ const cn = {
       CheckUpdate: "qq5666157",
       IsChecking: "正在检查更新...",
       FoundUpdate: (x: string) => `发现新版本：${x}`,
-      GoToUpdate: "qq5666157",
+   
       
     },
     SendKey: "发送键",
