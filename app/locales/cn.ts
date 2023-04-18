@@ -89,8 +89,8 @@ const cn = {
       IsLatest: "已是最新版本",
       CheckUpdate: "检查更新",
       IsChecking: "正在检查更新...",
-      FoundUpdate: (x: string) => `发现新版本：${x}`,
-      GoToUpdate: "前往更新",
+      FoundUpdate: (x: string) => `${x}`,
+      GoToUpdate: "",
     },
     SendKey: "发送键",
     Theme: "主题",
@@ -120,9 +120,9 @@ const cn = {
       SubTitle: "当未压缩的历史消息超过该值时，将进行压缩",
     },
     Token: {
-      Title: "API Key",
-      SubTitle: "使用自己的 Key 可绕过密码访问限制",
-      Placeholder: "OpenAI API Key",
+      Title: "",
+      SubTitle: "",
+      Placeholder: "",
     },
     Usage: {
       Title: "余额查询",
