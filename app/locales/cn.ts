@@ -87,7 +87,7 @@ const cn = {
     Update: {
       Version: (x: string) => `当前版本：${x}`,
       IsLatest: "已是最新版本",
-      CheckUpdate: "qq5666157",
+      CheckUpdate: "检查更新",
       IsChecking: "正在检查更新...",
       FoundUpdate: (x: string) => `发现新版本：${x}`,
       CheckUpdate: "",
@@ -123,7 +123,7 @@ const cn = {
     },
     Token: {
       Title: "API Key",
-      SubTitle: "可使用自己的 Key",
+      SubTitle: "可使用自己的 Key ",
       Placeholder: "OpenAI API Key",
     },
     Usage: {
