@@ -172,7 +172,7 @@ function _Home() {
             quying_global
           </div>
           <div className={styles["sidebar-sub-title"]}>
-            趣盈全球
+           更多资讯请关注微信公众号：趣盈全球
           </div>
           <div className={styles["sidebar-logo"]}>
             <ChatGptIcon />
